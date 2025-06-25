@@ -1,4 +1,4 @@
 Registro Exitoso
-![registro](pantalla/ss_register.png)
+![registro](pantallas/ss_register.png)
 Main
-![main](pantalla/ss_main.png)
+![main](pantallas/ss_main.png)
