@@ -17,7 +17,7 @@ Una aplicación Android moderna con **Firebase Authentication** y tema gaming co
 - ✅ Logout seguro
 
 ### 🎨 **Tema Gaming**
-- 🌈 Paleta de colores neón (púrpura, cyan, verde)
+- 🌈 Paleta de colores neón 
 - 🎮 Iconos gaming personalizados
 - 🌙 Modo oscuro con gradientes
 - ✨ Efectos visuales atractivos
